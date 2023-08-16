@@ -1,6 +1,6 @@
 # VolunterPembuatanAplikasi
 
-Repositori ini digunakan untuk mencari volunter dalam pembuatan aplikasi Dicoding. Jika Anda tertarik, silahkan melakukan PR (Pull Request) pada repository project ini dan silahkan menggunakan format berikut:
+Repositori ini digunakan untuk mencari volunter dalam pembuatan aplikasi Dicoding. Jika Anda tertarik, silahkan melakukan PR (Pull Request) pada repository project ini dan silahkan menggunakan format berikut:    
 **\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio)**
 
 Berikut daftar volunter yang diterima:
