@@ -5,5 +5,4 @@ Repositori ini digunakan untuk mencari volunter dalam pembuatan aplikasi Dicodin
 
 Berikut daftar volunter yang diterima:
 * Oon Subandi, [oo.or.id](https://oo.or.id).
-* Jalal Mboyyy, [LinkedIn](https://www.linkedin.com/in/jalalludin-a0a70b262/).
 
